@@ -57,7 +57,7 @@ def main(video_path: str):
    - Modify the `video_path` in the `main` function to point to your video file.
    - Run the script:
      ```bash
-     python drone_detection.py
+     python detect_drone_in_the_sky.py
      ```
 
 3. **Output**:
